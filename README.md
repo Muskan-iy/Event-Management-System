@@ -1,15 +1,14 @@
 # Event Management System
 
 ## Description
-The **Event Management System** is a React-based web application that I developed as part of my university coursework. This project demonstrates my skills in front-end development using modern web technologies like React and JavaScript. The application is designed to make event planning easier with a clean and user-friendly interface.
+The Event Management System is a React-based web application that I developed as part of my university coursework. This project demonstrates my skills in front-end development using modern web technologies like React and JavaScript. The application's clean and user-friendly interface is designed to make event planning easier.
 
 ---
 
 ## Features
-- Create, update, and delete events effortlessly.
-- Easy navigation using `react-router-dom`.
+- Create and update events effortlessly.
+- Easy navigation.
 - Dynamic carousels and sliders implemented with `react-slick` and `slick-carousel`.
-- Fully responsive design for desktop and mobile devices.
 - Professional and visually appealing icons powered by Font Awesome.
 
 ---
@@ -17,11 +16,10 @@ The **Event Management System** is a React-based web application that I develope
 ## Technologies Used
 - **React**: For building the interactive user interface.
 - **JavaScript**: For functionality and interactivity.
-- **React Router DOM**: For managing page navigation.
 - **React Slick & Slick Carousel**: For implementing carousels.
 - **Font Awesome**: For adding stylish icons.
-- **Swiper**: For creating responsive, touch-friendly sliders.
-- **React Scripts**: For setting up the development environment.
+- **Swiper**: Used to create responsive, touch-friendly sliders.
+- **React Scripts**: Used to set up the development environment.
 - **Testing Libraries**: For maintaining application reliability.
 
 ---
@@ -37,7 +35,7 @@ Ensure the following tools are installed on your computer:
 ### Steps
 1. Clone the repository to your local system:
    ```bash
-   git clone https://github.com/your-username/event-management-system.git
+   git clone (https://github.com/Muskan-iy/Event-Management-System.git)
    ```
 
 2. Open the project directory:
